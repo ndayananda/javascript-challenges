@@ -12,10 +12,9 @@
  * FFor a = [50, 60, 60, 45, 70], the output should be alternatingSums(a) = [180, 105]
  */
 
-export const alternatingSums = arr => {
-  return arr.reduce(
+export const alternatingSums = arr =>
+  arr.reduce(
     (acc, curr, idx) =>
       idx % 2 === 0 ? [acc[0] + curr, acc[1]] : [acc[0], acc[1] + curr],
     [0, 0]
   );
-};

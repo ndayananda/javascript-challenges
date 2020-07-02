@@ -8,6 +8,4 @@
  *
  */
 
-export const add = (...args) => {
-  return [...args].reduce((acc, curr) => acc + curr, 0);
-};
+export const add = (...args) => [...args].reduce((acc, curr) => acc + curr, 0);
