@@ -1,5 +1,5 @@
 /**
- * Challenge 2
+ * Challenge 2 - Find All Longest Strings
  * Given an array of string, return another array containing all the longest strings
  *
  * Eaxample:

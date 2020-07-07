@@ -1,5 +1,5 @@
 /**
- * Challenge 5
+ * Challenge 5 - Case Insensitive Palindrome
  * Given a string, check if it can become a palindrome through a case change of some (possibly, none) letters.
  *
  * Example •

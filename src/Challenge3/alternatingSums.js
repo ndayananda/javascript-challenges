@@ -1,5 +1,5 @@
 /**
- * Challenge 3
+ * Challenge 3 - Alternating Sums
  * Several people are standing in a row and need to be divided into two teams.
  * The first person goes into team 1, the second goes into team 2,
  * the third goes into team 1 again, the fourth into team 2, and so on.
