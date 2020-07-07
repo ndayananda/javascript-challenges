@@ -1,5 +1,5 @@
 /**
- * Challenge 1
+ * Challenge 1 - Add Numbers
  * 1. Write a functions that returns sum of 2 numbers
  * 2. Write a function that returns sum of all the numbers regardless of the # of prarams
  *

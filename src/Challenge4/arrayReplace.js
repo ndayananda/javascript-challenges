@@ -1,5 +1,5 @@
 /**
- * Challenge 4
+ * Challenge 4 - Array Replace
  * Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
  *
  * Example
